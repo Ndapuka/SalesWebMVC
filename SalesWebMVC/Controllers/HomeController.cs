@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Mvc;
 using SalesWebMVC.Models;
 using System.Diagnostics;
@@ -22,7 +23,13 @@ namespace SalesWebMVC.Controllers
         {
             return View();
         }
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Salles Web MVC App";
+            ViewData["Email"] = "mnmaquina@hotmail.com";
 
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
