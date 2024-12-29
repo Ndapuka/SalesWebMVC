@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|c:\\users\\mnmaq\\onedrive\\ambiente de trabalho\\rumos\\udemy\\saleswebmvc\\saleswebmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F212C3D-C5F8-498C-9D85-FFAF9449D13E}|SalesWebMVC\\SalesWebMVC.csproj|solutionrelative:saleswebmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 173,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T21:34:38.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWebMVC\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:23:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWebMVC\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T21:19:22.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T21:10:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T20:28:29.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T18:43:28.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Program.cs",
+              "RelativeToolTip": "SalesWebMVC\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:30:40.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SalesWebMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SalesWebMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T16:48:36.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SalesWebMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SalesWebMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-28T17:59:31.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesWebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\mnmaq\\OneDrive\\Ambiente de Trabalho\\Rumos\\Udemy\\SalesWebMVC\\SalesWebMVC\\appsettings.json",
+              "RelativeToolTip": "SalesWebMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T17:05:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

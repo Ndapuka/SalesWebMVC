@@ -1,6 +1,6 @@
 using System;
 using Microsoft.AspNetCore.Mvc;
-using SalesWebMVC.Models;
+using SalesWebMVC.Models.ViewModel;
 using System.Diagnostics;
 
 namespace SalesWebMVC.Controllers
@@ -30,6 +30,7 @@ namespace SalesWebMVC.Controllers
 
             return View();
         }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
